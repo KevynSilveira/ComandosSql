@@ -1,0 +1,1 @@
+Esse repositorio tem como objetivo registrar estudo sobre o MYSQL.
